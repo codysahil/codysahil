@@ -1,8 +1,8 @@
+
+![Header](./github-header-image.png)
 # 💫 About Me:
-🎓  I'm currently studying Computer Science Engineering at Galgotias University, Greater Noida.<br>💡  Currently learning Qt for developing C++ applications.<br>✉️  You can shoot me an email at codysahil8@gmail.com<br>
-
-
-## 🌐 Socials:
+🎓  I'm currently studying Computer Science Engineering at Galgotias University, Greater Noida.<br>💡  Currently learning Qt for developing C++ applications.<br>
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_m_bit_2) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@BlusteryB7) 
 
 # 💻 Tech Stack:
